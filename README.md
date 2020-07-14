@@ -45,7 +45,7 @@ Projects I worked on during my PhD research:
 
 * date: June 18th 2020
 * venue: HPC Knowledge Meeting - Barcelona (Spain) *(virtual)*
-* [slides](https://users.ugent.be/~kehoste/EESSI_HPCKP20_20200618.pdf)
+* [slides](https://github.com/EESSI/docs/blob/master/talks/20200618_HPCKP20/EESSI_HPCKP20_20200618.pdf)
 * [recording (YouTube)](https://www.youtube.com/watch?v=nihAG_Y2l9o)
 
 #### *Easybuild State of the union* (5th EasyBuild User Meeting)
