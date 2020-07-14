@@ -109,7 +109,7 @@ Born out of years of frustration to get scientific software installed...
 * [slides](http://users.ugent.be/~kehoste/eum18/eum18_easybuild_past_present_future_20180130.pdf)
 * [recording (YouTube)](https://www.youtube.com/watch?v=cAlCtQJrdJM)
 
-#### 2017
+### 2017
 
 #### *EasyBuild: past, present and future* (2nd EasyBuild User Meeting)
 
@@ -118,7 +118,7 @@ Born out of years of frustration to get scientific software installed...
 * [slides](http://easybuilders.github.io/easybuild/files/EUM17/20170208-2_EasyBuild_past_present_future.pdf)
 * [recording (YouTube)](https://www.youtube.com/watch?v=Zczp0-YaPPI)
 
-#### 2016
+### 2016
 
 #### *EasyBuild: past, present and future* (1st EasyBuild User Meeting)
 
