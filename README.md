@@ -61,7 +61,7 @@ Projects I worked on during my PhD research:
 
 * date: Jan 30th 2019
 * venue: 4th EasyBuild User Meeting - UCL, Louvain-la-Neuve (Belgium)
-* [slides](https://indico.cism.ucl.ac.be/event/4/contributions/8/attachments/24/52/EasyBuild_20190130_state-of-the-union.pdf)
+* [slides](https://users.ugent.be/~kehoste/EasyBuild_20190130_state-of-the-union.pdf)
 * [recording (YouTube)](https://www.youtube.com/watch?v=P2s2p5uIY0M)
 
 ### 2018
