@@ -17,7 +17,7 @@ Things I don't like include [CMake](https://cmake.org/), [Bazel](https://bazel.b
 
 #### Current
 
-* [EasyBuild](https://easybuilders.github.io/easybuild/): A software build and installation framework for (scientific) software on HPC systems
+* [EasyBuild](https://easybuild.io): A software build and installation framework for (scientific) software on HPC systems
   * lead developer & release manager (BDFL, if you will)
 * [archspec](https://github.com/archspec/): A library for detecting, labeling, and reasoning about microarchitectures
   * co-developer
