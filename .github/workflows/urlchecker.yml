@@ -5,11 +5,11 @@ on:
   schedule:
     - cron: '0 10 * * *'
 jobs:
-  build:
+  check_urls:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: urls-checker
       uses: urlstechie/urlchecker-action@0.2.3
       with:
-        include_files: README.md
+        include_files: "README.md,urls.md"
