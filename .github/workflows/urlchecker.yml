@@ -10,6 +10,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: urls-checker
-      uses: urlstechie/urlchecker-action@0.2.3
+      uses: urlstechie/urlchecker-action@0.0.27
       with:
         include_files: "README.md,urls.md"

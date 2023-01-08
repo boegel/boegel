@@ -23,6 +23,8 @@ Things I don't like include [CMake](https://cmake.org/), [Bazel](https://bazel.b
   * co-developer
 * [EESSI](https://github.com/EESSI/): European Environment for Scientific Software Installations
   * active project partner
+* [PyGHee](https://github.com/boegel/pyghee) (pronounced as "piggy") is the GitHub Event Executor, a Python library to facilitate creating a GitHub App implemented in Python to process events from GitHub
+  * creator and developer
 
 ### Old
 
